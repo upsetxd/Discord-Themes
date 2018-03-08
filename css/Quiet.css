@@ -3,9 +3,9 @@
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
 
 :root {
-    --version-content: "7.9";
-    --theme-name: "Quiet";
-    --theme-letter: "Q";
+    --version-content: "<3";
+    --theme-name: "upset";
+    --theme-letter: "U";
 }
 
 /* Version Displayed */
@@ -4489,10 +4489,10 @@ display: none !important;}
 .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras{line-height: 0;font-size: 0;}
 
 /* Replaces it with Spoofed Name */
-.layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "Quiet";line-height: 24px;font-size: 16px;}
+.layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "upset";line-height: 24px;font-size: 16px;}
 
 /* Enabled */
-.theme-dark .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "Quiet (Enabled)";}
+.theme-dark .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "upset (Enabled)";}
 
 .theme-light .accountDetails-15i-_e .username{background-color: #fff;border-top: 2px solid #f6f6f7 !important;}
 
