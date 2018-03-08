@@ -4,7 +4,7 @@
 
 :root {
     --version-content: "<3";
-    --theme-name: "upset";
+    --theme-name: "upset is daddy";
     --theme-letter: "U";
 }
 
@@ -19,11 +19,11 @@
 
 .need-help-modal .header h1::after{content:var(--theme-name)" v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
-#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Hi, I have a server where I post customizable options for the theme and \A you can give me feedback, also with tons of bots. Join the server at \A\A discord.me/mrrobotserver \A\A It's also easier to report bugs and has a higher chance of getting them \A fixed faster.";}
+#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Yes, i am your daddy..... My Main Steam \A\A http://steamcommunity.com/id/beached \A\A";}
 
 .themedescription{display:block;width:100%;margin-right:5px;}
 
-.themedescription:before{display:block;font-size:14px;height:15px;color:#3ddcb1;font-weight:700;content:"Get more themes and plugins at betterdocs.net!";}
+.themedescription:before{display:block;font-size:14px;height:15px;color:#3ddcb1;font-weight:700;content:"upset is the most superior hvher!";}
 
 body:before{content:"You are using "var(--theme-name)", Have a good day!";z-index:1000000000000000000000000;color:#fff;background:var(--main-color);top:0px;left:50%;position:absolute;border-radius:5px;padding:5px 15px;-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);-webkit-animation:version 3s ease;animation:version 3s ease;-webkit-animation-delay:4s;animation-delay:4s;}
 
