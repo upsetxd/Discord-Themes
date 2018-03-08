@@ -3,9 +3,9 @@
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
 
 :root {
-    --version-content: "7.9";
-    --theme-name: "Quiet";
-    --theme-letter: "Q";
+    --version-content: "<3";
+    --theme-name: "upset";
+    --theme-letter: "U";
 }
 
 /* Version Displayed */
@@ -19,11 +19,11 @@
 
 .need-help-modal .header h1::after{content:var(--theme-name)" v" var(--version-content);color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:200%;left: 0px;margin-left: -45px;top: 16px;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
-#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "Hi, I have a server where I post customizable options for the theme and \A you can give me feedback, also with tons of bots. Join the server at \A\A discord.me/mrrobotserver \A\A It's also easier to report bugs and has a higher chance of getting them \A fixed faster.";}
+#bd-settingspane-container .content-column.default .ui-form-title.h2::after{content: "upset is daddy <3";}
 
 .themedescription{display:block;width:100%;margin-right:5px;}
 
-.themedescription:before{display:block;font-size:14px;height:15px;color:#3ddcb1;font-weight:700;content:"Get more themes and plugins at betterdocs.net!";}
+.themedescription:before{display:block;font-size:14px;height:15px;color:#3ddcb1;font-weight:700;content:"superior hvher!";}
 
 body:before{content:"You are using "var(--theme-name)", Have a good day!";z-index:1000000000000000000000000;color:#fff;background:var(--main-color);top:0px;left:50%;position:absolute;border-radius:5px;padding:5px 15px;-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);-webkit-animation:version 3s ease;animation:version 3s ease;-webkit-animation-delay:4s;animation-delay:4s;}
 
@@ -4489,10 +4489,10 @@ display: none !important;}
 .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras{line-height: 0;font-size: 0;}
 
 /* Replaces it with Spoofed Name */
-.layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "Quiet";line-height: 24px;font-size: 16px;}
+.layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "upset";line-height: 24px;font-size: 16px;}
 
 /* Enabled */
-.theme-dark .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "Quiet (Enabled)";}
+.theme-dark .layer[layer-id="user-settings"] .user-settings-appearance .flex-vertical > div:nth-child(2) .radioGroup-2P3MJo > div:nth-child(2) .info-1Z508c .title-1M-Ras:after{content: "upset (Enabled)";}
 
 .theme-light .accountDetails-15i-_e .username{background-color: #fff;border-top: 2px solid #f6f6f7 !important;}
 
