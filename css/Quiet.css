@@ -1785,7 +1785,7 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .need-help-modal .footer{background-color:transparent;color:transparent;border-top:0px #e9e7e7 solid;padding-top:0px;padding-left:0px;width:100%;position:relative;}
 
-.need-help-modal .footer::after{content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0Need help? Visit https://betterdocs.net";background-color:#19191b;width:100%;height:34px;position:absolute;bottom:0;left:0;line-height:32px;border-radius:0 0 5px 5px;border-top:2px solid #161618;color:#fff;}
+.need-help-modal .footer::after{content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0Need help? Visit https://blatant.cc";background-color:#19191b;width:100%;height:34px;position:absolute;bottom:0;left:0;line-height:32px;border-radius:0 0 5px 5px;border-top:2px solid #161618;color:#fff;}
 
 .need-help-modal .form-inner.loading .spinner{display:none!important;}
 
